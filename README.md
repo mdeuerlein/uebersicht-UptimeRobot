@@ -16,4 +16,4 @@ Open index.coffee and:
 * Modify **CSS** to position and style as you like
 
 ## Credits
-Based on the [StatusCake Widget](https://github.com/things/uebersicht-statuscake) created by https://github.com/things 
+Based on the [StatusCake Widget](https://github.com/things/uebersicht-statuscake) created by [Things](https://github.com/things)
