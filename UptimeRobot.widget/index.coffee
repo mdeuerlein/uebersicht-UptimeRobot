@@ -7,6 +7,7 @@ refreshFrequency: 600000  # Milliseconds between calls
 
 render: -> """
 <div class="uptimerobot">
+  <div class="logo"><img src="https://uptimerobot.com/assets/img/logo_plain.png" width="124" height="39"></div>
   <table>
     <thead>
       <tr>
@@ -53,11 +54,18 @@ font-weight: 300
 font-size: 16px
 line-height: 27px
 
-
 .uptimerobot
   background-color:rgba(0,0,0,0.5);
   padding:10px 20px;
-  
+
+.logo 
+  text-align:center;
+  padding:5px 0;
+
+.logo-img
+  width:83;
+  height:26;  
+
 th
   text-align:left;
   
